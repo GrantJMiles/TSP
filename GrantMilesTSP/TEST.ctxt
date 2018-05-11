@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=TEST
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ TEST\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=TEST()
+comment2.params=
+comment2.target=void\ dantzigOvernightTest()
+comment3.params=pop\ maxGen
+comment3.target=void\ dantzigTestAllAtOnceRoulette(int,\ int)
+comment4.params=pop\ maxGen
+comment4.target=void\ dantzigTestAllAtOnceTournament(int,\ int)
+numComments=5
